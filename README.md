@@ -1,2 +1,3 @@
 # Gantt-Chart-Lofthus-frukt-og-saft-
 Dette er Bjørn-Ivar Skuggen sin Course Assignment: Project Methodology. Det skal ligge 5 filer i innleveringen (inkludert README filen). Ett Gantt Chart laget i Numbers, og en rapport laget i Pages. De to andre filene er pdf format av de andre. Siste er README
+Vil bare informere om at jeg la merke til i ettertid en feil i Gantt Chart. På dag 6 og 7 i Design perioden, er det oppført at innholdsleder og FEU skal skissere i to dager. Dette skal egentlig reduseres med én dag, slik det samsvarer med grafisk designer sin plan. Får ikke endret dette på innleveringen jeg gjorde på Canvas, så ville nevne det her. 
